@@ -31,25 +31,25 @@ Based on the scatterplot above, there seems to be a linear relationship but that
 - The CI of Intercept is [-437.1, 528], which is a broad range so we cannot rely on this estimate. The CI of Slope is [5.6, 27.1], still a broad range. Even though we reject the bull hypothesis here, we cannot rely on the estimates here.
 
 **L.I.N.E. Assumptions**<br>
-Linearity
+**Linearity**
 
 ![](Media/Image3.jpg)
 
 Data follows linearity but a single outlier pulled the regression line towards itself. There is a positive liner relationship.
 
-Independence
+**Independence**
 
 ![](Media/Image4.jpg)
 
 The fitted vales with their residuals show no pattern and is random. So, it qualifies the Independence test.
 
-Normality
+**Normality**
 
 ![](Media/Image5.jpg)
 
 From the plot the data almost follows a normal distribution but there are few values out in the tails.
 
-Equality of Variances
+**Equality of Variances**
 
 ![](Media/Image6.jpg)
 
